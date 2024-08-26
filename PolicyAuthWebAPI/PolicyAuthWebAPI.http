@@ -1,0 +1,6 @@
+@PolicyAuthWebAPI_HostAddress = http://localhost:5037
+
+GET {{PolicyAuthWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

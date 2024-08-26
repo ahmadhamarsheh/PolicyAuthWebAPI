@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolicyAuthWebAPI", "PolicyAuthWebAPI\PolicyAuthWebAPI.csproj", "{4A0F3623-48A8-49BA-9A03-484C7F33AFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0F3623-48A8-49BA-9A03-484C7F33AFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0F3623-48A8-49BA-9A03-484C7F33AFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0F3623-48A8-49BA-9A03-484C7F33AFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0F3623-48A8-49BA-9A03-484C7F33AFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C4323E-5901-404A-B06B-34A8F522E364}
+	EndGlobalSection
+EndGlobal
