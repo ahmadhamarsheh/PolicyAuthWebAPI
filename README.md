@@ -4,6 +4,9 @@
 
 `PolicyAuthWebAPI` is an ASP.NET Core Web API project designed to manage user accounts with JWT-based authentication and custom authorization policies. It includes features for user registration, login, and role-based access control.
 
+![image](https://github.com/user-attachments/assets/2792e6d0-c40e-47d3-b6fd-2e9341d65b46)
+
+
 ## Features
 
 - **User Registration:** Allows new users to register with email, password, role, and date of birth.
